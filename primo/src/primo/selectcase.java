@@ -24,6 +24,7 @@ public class selectcase {
 				   	  System.out.println("2 Resta");
 				   	  System.out.println("3 Multiplicacion");
 				   	  System.out.println("4 Division");
+				   	  System.out.println("0 Salir");
 				   	  operacion=Integer.parseInt(teclado.readLine());
 				   	  
 				   	  switch(operacion)
